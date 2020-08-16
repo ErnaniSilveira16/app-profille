@@ -1,0 +1,35 @@
+body {
+    
+    background-color: skyblue;
+   }
+   text {
+    text-align: center;
+  }
+  .button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 5px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    margin: 0px 0px;
+    margin-left: 100vh;
+    cursor: pointer;
+  }
+  .img-fluid {
+    max-width: 100%;
+    height:img-fluid auto;
+  }
+  .d-block {
+    display: block !important;
+  }
+  .col-lg-4 {
+    flex: 0 0 33.3333333333%;
+    max-width: 33.3333333333%;
+  }
+  .mr-auto,
+.mx-auto {
+  margin-right: auto !important;
+}
